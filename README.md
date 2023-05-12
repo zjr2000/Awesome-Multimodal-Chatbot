@@ -1,5 +1,7 @@
 # Awesome-Multimodal-Assistant
 
+**Awesome Multimodal Assistant** is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience. It is designed to assist users in performing various tasks, from simple information retrieval to complex multimedia reasoning.
+
 ## Instruction-tuned Vision-Language Models
 
 - **Visual Instruction Tuning**
