@@ -2,7 +2,12 @@
 
 **Awesome Multimodal Assistant** is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience. It is designed to assist users in performing various tasks, from simple information retrieval to complex multimedia reasoning.
 
-## Instruction-tuned Vision-Language Models
+- **GPT-4**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.08774) [[blog]](https://openai.com/research/gpt-4)
+
+
+## Multimodal Instruction-tuned Models
 
 - **Visual Instruction Tuning**
   
@@ -57,7 +62,7 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
 
-## Multimodal Applications
+## Multimodal Instruction-following Agents
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
 
@@ -73,10 +78,6 @@
   ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.06594) [[code]](https://github.com/Vision-CAIR/ChatCaptioner)  
 
 
-- **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**
-  
-  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
-
 
 - **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
 
@@ -90,4 +91,8 @@
 
 - **VLog: Video as a Long Document**
     
-    [[code]](https://github.com/showlab/VLog) [[demo]]()
+    [[code]](https://github.com/showlab/VLog) [[demo]](https://huggingface.co/spaces/TencentARC/VLog)
+
+- **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
