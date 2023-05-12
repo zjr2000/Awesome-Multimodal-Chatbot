@@ -62,7 +62,7 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
 
-## Multimodal Instruction-following Agents
+## LLM-Mangaged Multimodal Systems 
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
 
