@@ -68,9 +68,15 @@
 
   ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.04671) [[code]](https://github.com/microsoft/TaskMatrix) [[demo]](https://huggingface.co/spaces/microsoft/visual_chatgpt)
 
+
 - **ViperGPT: Visual Inference via Python Execution for Reasoning**
 
   ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.08128) [[code]](https://github.com/cvlab-columbia/viper) [[project page]](https://viper.cs.columbia.edu/)
+
+
+- **TaskMatrix.AI: Completing Tasks by Connecting Foundation Models with Millions of APIs**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.16434) [[code]](https://github.com/microsoft/TaskMatrix/tree/main/TaskMatrix.AI)
 
 
 - **Chatgpt asks, blip-2 answers: Automatic questioning towards enriched visual descriptions**
@@ -93,6 +99,13 @@
     
     [[code]](https://github.com/showlab/VLog) [[demo]](https://huggingface.co/spaces/TencentARC/VLog)
 
+
 - **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**
   
   ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
+
+
+- **ChatVideo: A Tracklet-centric Multimodal and Versatile Video Understanding System**
+
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.14407) [[project page]](https://www.wangjunke.info/ChatVideo/)
+
