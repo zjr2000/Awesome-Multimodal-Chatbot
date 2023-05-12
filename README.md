@@ -2,7 +2,7 @@
 
 **Awesome Multimodal Assistant** is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience. It is designed to assist users in performing various tasks, from simple information retrieval to complex multimedia reasoning.
 
-## Multimodal Instruction-tuned Models
+## Multimodal Instruction Tuning
 
 - **GPT-4**
 
@@ -62,7 +62,7 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
 
-## LLM-Mangaged Multimodal Systems 
+## LLM-Based Modularized Models
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
 
