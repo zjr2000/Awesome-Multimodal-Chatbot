@@ -1,13 +1,13 @@
-# Awesome-Multimodal-Assistant
+# Awesome-Multimodal-Assistant [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 **Awesome Multimodal Assistant** is a curated list of multimodal chatbots/conversational assistants that utilize various modes of interaction, such as text, speech, images, and videos, to provide a seamless and versatile user experience. It is designed to assist users in performing various tasks, from simple information retrieval to complex multimedia reasoning.
+
+## Multimodal Instruction-tuned Models
 
 - **GPT-4**
 
   ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.08774) [[blog]](https://openai.com/research/gpt-4)
 
-
-## Multimodal Instruction-tuned Models
 
 - **Visual Instruction Tuning**
   
