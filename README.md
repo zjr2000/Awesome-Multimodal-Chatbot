@@ -1,1 +1,91 @@
-# Awesome-Multimodal-Chatbot
+# Awesome-Multimodal-Assistant
+
+## Instruction-tuned Vision-Language Models
+
+- **Visual Instruction Tuning**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.08485) [[code]](https://github.com/haotian-liu/LLaVA) [[project page]](https://llava-vl.github.io/) [[demo]](https://llava.hliu.cc/)
+
+
+- **MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.10592) [[code]](https://github.com/Vision-CAIR/MiniGPT-4) [[project page]](https://minigpt-4.github.io/) [[demo]](https://huggingface.co/spaces/Vision-CAIR/minigpt4)
+
+
+- **mPLUG-Owl: Modularization Empowers Large Language Models with Multimodality**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.14178) [[code]](https://github.com/X-PLUG/mPLUG-Owl) [[demo]](https://modelscope.cn/studios/damo/mPLUG-Owl/summary)
+
+
+- **LLaMA-Adapter V2: Parameter-Efficient Visual Instruction Model**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.15010) [[code]](https://github.com/ZrrSkywalker/LLaMA-Adapter) [[demo]](https://huggingface.co/spaces/csuhan/LLaMA-Adapter)
+
+
+- **Video-LLaMA: An Instruction-Finetuned Visual Language Model for Video Understanding**
+
+  [[code]](https://github.com/DAMO-NLP-SG/Video-LLaMA)
+
+
+- **LMEye: An Interactive Perception Network for Large Language Models**
+- 
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.03701) [[code]](https://github.com/YunxinLi/LingCloud)
+
+
+- **MultiModal-GPT: A Vision and Language Model for Dialogue with Humans**
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT) [[demo]](https://mmgpt.openmmlab.org.cn/)
+
+
+- **X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages**
+ 
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.04160) [[code]](https://github.com/phellonchen/X-LLM) [[project page]](https://x-llm.github.io/)
+
+
+- **Otter: A Multi-Modal Model with In-Context Instruction Tuning**
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.03726) [[code]](https://github.com/Luodian/Otter) [[demo]](https://otter.cliangyu.com/)
+
+
+- **InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning** 
+  
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.06500) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip)
+
+- **InternGPT: Solving Vision-Centric Tasks by Interacting with ChatGPT Beyond Language** 
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
+
+## Multimodal Applications
+
+- **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.04671) [[code]](https://github.com/microsoft/TaskMatrix) [[demo]](https://huggingface.co/spaces/microsoft/visual_chatgpt)
+
+- **ViperGPT: Visual Inference via Python Execution for Reasoning**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.08128) [[code]](https://github.com/cvlab-columbia/viper) [[project page]](https://viper.cs.columbia.edu/)
+
+
+- **Chatgpt asks, blip-2 answers: Automatic questioning towards enriched visual descriptions**
+  
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.06594) [[code]](https://github.com/Vision-CAIR/ChatCaptioner)  
+
+
+- **Video ChatCaptioner: Towards Enriched Spatiotemporal Descriptions**
+  
+  ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.04227) [[code]](https://github.com/Vision-CAIR/ChatCaptioner/tree/main/Video_ChatCaptioner)
+
+
+- **MM-REACT: Prompting ChatGPT for Multimodal Reasoning and Action**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.11381) [[code]](https://github.com/microsoft/MM-REACT) [[project page]](https://multimodal-react.github.io/) [[demo]](https://huggingface.co/spaces/microsoft-cognitive-service/mm-react)
+
+
+- **Hugginggpt: Solving ai tasks with chatgpt and its friends in huggingface**
+
+  ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.17580) [[code]](https://github.com/microsoft/JARVIS) [[demo]](https://huggingface.co/spaces/microsoft/HuggingGPT)
+
+
+- **VLog: Video as a Long Document**
+    
+    [[code]](https://github.com/showlab/VLog) [[demo]]()
