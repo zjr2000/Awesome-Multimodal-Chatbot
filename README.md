@@ -62,7 +62,7 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
 
-## LLM-Based Modularized Models
+## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models**
 
