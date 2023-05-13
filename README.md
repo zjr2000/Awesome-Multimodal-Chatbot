@@ -4,6 +4,10 @@
 
 ## Multimodal Instruction Tuning
 
+- **MultiInstruct: Improving Multi-Modal Zero-Shot Learning via Instruction Tuning**
+  
+  ```arXiv 2022/12``` [[paper]](https://arxiv.org/abs/2212.10773)
+
 - **GPT-4**
 
   ```arXiv 2023/03``` [[paper]](https://arxiv.org/abs/2303.08774) [[blog]](https://openai.com/research/gpt-4)
