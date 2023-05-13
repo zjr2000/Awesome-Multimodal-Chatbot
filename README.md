@@ -114,7 +114,8 @@
 
   ```arXiv 2023/04``` [[paper]](https://arxiv.org/abs/2304.14407) [[project page]](https://www.wangjunke.info/ChatVideo/)
 
-- **VideoChat: Chat-Centric Video Understanding**
+
+- **VideoChat: Chat-Centric Video Understanding** [![Star](https://img.shields.io/github/stars/OpenGVLab/Ask-Anything.svg?style=social&label=Star)](https://github.com/OpenGVLab/Ask-Anything)
 
   ```arXiv 2023/05```  [[paper]](https://arxiv.org/abs/2305.06355) [[code]](https://github.com/OpenGVLab/Ask-Anything) [[demo]](https://huggingface.co/spaces/ynhe/AskAnything)
 
