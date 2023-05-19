@@ -68,6 +68,10 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.05662) [[code]](https://github.com/OpenGVLab/InternGPT) [[demo]](https://igpt.opengvlab.com/)
 
+- **VisionLLM: Large Language Model is also an Open-Ended Decoder for Vision-Centric Tasks**[![Star](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/OpenGVLab/VisionLLM)
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.11175) [[code]](https://github.com/OpenGVLab/VisionLLM)
+
 ## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
