@@ -72,23 +72,23 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.11175) [[code]](https://github.com/OpenGVLab/VisionLLM)
 
-- **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**[![Star](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/luogen1996/LaVIN)
+- **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**[![Star](https://img.shields.io/github/stars/luogen1996/LaVIN.svg?style=social&label=Star)](https://github.com/luogen1996/LaVIN)
 - 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15023) [[code]](https://github.com/luogen1996/LaVIN) [[project page]](https://luogen1996.github.io/lavin/)
 
-- **EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
+- **EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought** [![Star](https://img.shields.io/github/stars/EmbodiedGPT/EmbodiedGPT_Pytorch.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15021) [[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) [[project page]](https://embodiedgpt.github.io/)
 
-- **DetGPT: Detect What You Need via Reasoning** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/OptimalScale/DetGPT)
+- **DetGPT: Detect What You Need via Reasoning** [![Star](https://img.shields.io/github/stars/OptimalScale/DetGPT.svg?style=social&label=Star)](https://github.com/OptimalScale/DetGPT)
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.14167) [[code]](https://github.com/OptimalScale/DetGPT) [[project page]](https://detgpt.github.io/)
 
-- **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
+- **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** [![Star](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology.svg?style=social&label=Star)](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15072) [[code]](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
 
-- **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/joez17/ChatBridge)
+- **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst** [![Star](https://img.shields.io/github/stars/joez17/ChatBridge.svg?style=social&label=Star)](https://github.com/joez17/ChatBridge)
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.16103) [[code]](https://github.com/joez17/ChatBridge) [[project page]](https://iva-chatbridge.github.io/)
 
