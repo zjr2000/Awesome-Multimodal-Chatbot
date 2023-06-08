@@ -80,9 +80,9 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15021) [[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) [[project page]](https://embodiedgpt.github.io/)
 
-- **DetGPT: Detect What You Need via Reasoning** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
+- **DetGPT: Detect What You Need via Reasoning** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/OptimalScale/DetGPT)
 
-  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.14167) [[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) [[project page]](https://detgpt.github.io/)
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.14167) [[code]](https://github.com/OptimalScale/DetGPT) [[project page]](https://detgpt.github.io/)
 
 ## LLM-Based Modularized Frameworks
 
