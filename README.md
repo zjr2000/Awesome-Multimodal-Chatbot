@@ -84,6 +84,14 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.14167) [[code]](https://github.com/OptimalScale/DetGPT) [[project page]](https://detgpt.github.io/)
 
+- **PathAsst: Redefining Pathology through Generative Foundation AI Assistant for Pathology** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15072) [[code]](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology)
+
+- **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/joez17/ChatBridge)
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.16103) [[code]](https://github.com/joez17/ChatBridge) [[project page]](https://iva-chatbridge.github.io/)
+
 ## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
