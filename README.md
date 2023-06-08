@@ -76,6 +76,10 @@
 - 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15023) [[code]](https://github.com/luogen1996/LaVIN) [[project page]](https://luogen1996.github.io/lavin/)
 
+- **EmbodiedGPT: Vision-Language Pre-Training via Embodied Chain of Thought** [![Star](https://img.shields.io/github/stars/cvlab-columbia/viper.svg?style=social&label=Star)](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch)
+
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15021) [[code]](https://github.com/EmbodiedGPT/EmbodiedGPT_Pytorch) [[project page]](https://embodiedgpt.github.io/)
+
 ## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
