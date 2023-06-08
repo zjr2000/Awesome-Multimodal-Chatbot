@@ -72,6 +72,10 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.11175) [[code]](https://github.com/OpenGVLab/VisionLLM)
 
+- **Cheap and Quick: Efficient Vision-Language Instruction Tuning for Large Language Models**[![Star](https://img.shields.io/github/stars/OpenGVLab/VisionLLM.svg?style=social&label=Star)](https://github.com/luogen1996/LaVIN)
+- 
+  ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.15023) [[code]](https://github.com/luogen1996/LaVIN) [[project page]](https://luogen1996.github.io/lavin/)
+
 ## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
