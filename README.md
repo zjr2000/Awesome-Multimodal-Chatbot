@@ -94,7 +94,7 @@
   
 - **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)
 
-  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/joez17/ChatBridge)
+  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/mbzuai-oryx/Video-ChatGPT)
 
 ## LLM-Based Modularized Frameworks
 
