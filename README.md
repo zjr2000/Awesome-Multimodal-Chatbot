@@ -91,6 +91,10 @@
 - **ChatBridge: Bridging Modalities with Large Language Model as a Language Catalyst** [![Star](https://img.shields.io/github/stars/joez17/ChatBridge.svg?style=social&label=Star)](https://github.com/joez17/ChatBridge)
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.16103) [[code]](https://github.com/joez17/ChatBridge) [[project page]](https://iva-chatbridge.github.io/)
+  
+- **Video-ChatGPT: Towards Detailed Video Understanding via Large Vision and Language Models** [![Star](https://img.shields.io/github/stars/mbzuai-oryx/Video-ChatGPT.svg?style=social&label=Star)](https://github.com/mbzuai-oryx/Video-ChatGPT)
+
+  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.05424) [[code]](https://github.com/joez17/ChatBridge)
 
 ## LLM-Based Modularized Frameworks
 
