@@ -92,6 +92,18 @@
 
   ```arXiv 2023/05``` [[paper]](https://arxiv.org/abs/2305.16103) [[code]](https://github.com/joez17/ChatBridge) [[project page]](https://iva-chatbridge.github.io/)
 
+- **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**
+
+  ```arXiv 2023/06```  [[paper]](https://arxiv.org/abs/2306.06687)
+
+- **Accountable Textual-Visual Chat Learns to Reject Human Instructions in Image Re-creation**
+
+  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2303.05983) [[project page]](https://matrix-alpha.github.io/)
+
+- **VALLEY: VIDEO ASSISTANT WITH LARGE LANGUAGE MODEL ENHANCED ABILITY** [![Star](https://img.shields.io/github/stars/RupertLuo/Valley.svg?style=social&label=Star)](https://github.com/RupertLuo/Valley)
+
+  ```arXiv 2023/06``` [[paper]](https://arxiv.org/abs/2306.07207) [[code]](https://github.com/RupertLuo/Valley)
+
 ## LLM-Based Modularized Frameworks
 
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [![Star](https://img.shields.io/github/stars/microsoft/TaskMatrix.svg?style=social&label=Star)](https://github.com/microsoft/TaskMatrix)
